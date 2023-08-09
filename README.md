@@ -26,4 +26,4 @@
 - [ ] Rubriques
   - [ ] Le musée
   - [ ] Un peu d'histoire
-    - [ ] Une institutrice raconte ses débuts
+    - [x] Une institutrice raconte ses débuts

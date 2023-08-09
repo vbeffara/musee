@@ -5,6 +5,7 @@ title: "Une institutrice raconte ses débuts"
 subtitle: "Les premières suppléances de Jeanne, en 1941, dans le Cantal"
 chapeau: "Quelques anecdotes de la vie d’une jeune institutrice, dans les années 40"
 vignette: "jeannette.jpg"
+tags: histoire
 ---
 
 Je m’appelle Jeanne et j’ai j'ai maintenant 86 ans. Je repense souvent à mes débuts
@@ -16,7 +17,7 @@ matin. Il y avait souvent quarante ou cinquante kilomètres à faire, par tous l
 temps et sur les routes accidentées de la Corrèze et du Cantal mais, cela ne me
 faisait pas peur, j’étais jeune et j’avais du jarret&nbsp;!
 
-![](/histoire/ecole_Pleaux2.jpg) **Pleaux**
+![](ecole_Pleaux2.jpg) **Pleaux**
 
 A l’arrivée dans le village, ma première préoccupation était de trouver un
 logement. Une fois, j’avais trouvé une chambre dans un hôtel
@@ -27,7 +28,7 @@ dit&nbsp;: &laquo;&nbsp;L’institutrice ne doit pas être logée dans un tel
 chose&nbsp;!&nbsp;&raquo; Il a alors trouvé une famille qui a pu m’accueillir.
 C’était la solution la plus courante.
 
-![](/histoire/besserette2.jpg) **Besserette**
+![](besserette2.jpg) **Besserette**
 
 D’autres fois, le curé, qui était toujours un personnage important dans le
 village, a pu me rendre service . Il est même arrivé que l’un d’eux vienne me
@@ -37,7 +38,7 @@ le village ou dans une ferme des environs. Je me souviens que, quelquefois, je
 devais sortir et casser la glace pour prendre l’eau de ma toilette. J’en ai même
 gardé l’habitude de me laver à l’eau froide&nbsp;!
 
-![](/histoire/vezac2.jpg) **Vezac**
+![](vezac2.jpg) **Vezac**
 
 L’arrivée dans la classe devait être matinale. Il fallaitd’abord allumer le
 poële avec ce qu’il y avait sur place&nbsp;: exceptionnellement du charbon, le
@@ -45,7 +46,7 @@ plus souvent du bois ou, à défaut, de la tourbe qui ne chauffait pas grand
 chose. Il m’est arrivé de demander aux enfants d’apporter une bûche quand il n’y
 en avait plus à l’école&nbsp;! On faisait au mieux&nbsp;!
 
-![](/histoire/ladinhac.jpg) **Ladinhac**
+![](ladinhac.jpg) **Ladinhac**
 
 Puis, les enfants arrivaient. Ils venaient du village et des environs et
 marchaient quelquefois près d’une heure et, l’hiver, ils étaient frigorifiés en
@@ -60,7 +61,7 @@ les écoles n’étaient pas encore mixtes, les effectifs des petits villages
 imposaient le regroupement des filles et des garçons. S’il y avait trop
 d’enfants pour une seule classe, on les séparait plutôt par âge.
 
-![](/histoire/saintponcy.jpg) **Saint-Poncy**
+![](saintponcy.jpg) **Saint-Poncy**
 
 La journée commençait toujours par la leçon de Morale, avec tous les enfants,
 puis venaient l’écriture, la dictée, le calcul, la grammaire, l’histoire et la
