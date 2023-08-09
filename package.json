@@ -1,0 +1,14 @@
+{
+  "name": "iletaitunefoislecole",
+  "version": "1.0.0",
+  "description": "Site web du musée de l'école",
+  "author": "Vincent Beffara",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "scripts": {
+    "build": "npx eleventy",
+    "start": "npx eleventy --serve"
+  }
+}
