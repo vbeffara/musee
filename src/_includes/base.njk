@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{% if title %}{{ title }} - {% endif %}Il était une fois l'école</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="/ecole.css" />
+  <link rel="home" title="Page principale" href="http://iletaitunefoislecole.fr/" />
+  <link rel="start" title="Page principale" href="http://iletaitunefoislecole.fr/" />
+  <link rel="index" title="Page principale" href="http://iletaitunefoislecole.fr/" />
+</head>
+
+<body>
+  <div class="head-out">
+    <div class="head">
+      <a href="/"><img src="/img/logo_site.png" alt="Il était une fois l'école" /></a>
+    </div>
+  </div>
+
+  <div class="body">
+    {% if vignette %}<p class="vignette"><img src="/img/vignettes/{{ vignette }}" /></p>{% endif %}
+    {% if title %}<h1>{{ title }}</h1>{% endif %}
+    {% if subtitle %}<h2 class="soustitre">{{ subtitle }}</h2>{% endif %}
+    {% if chapeau %}<p class="chapo">{{ chapeau }}</p>{% endif %}
+
+    {{ content | safe }}
+
+    {% if author %}<h3 class="auteur">{{ author }}</h3>{% endif %}
+  </div>
+</body>
+
+</html>

@@ -1,23 +1,24 @@
-/*div.fil { border : 1px solid blue; }*/
-
 body { background : url(/img/body_fond.jpg); padding : 0px; margin : 0px; }
-
-a { text-decoration : none; border : 0px; }
-a img { border : 0px; }
 
 div.head-out { background : url(/img/head_bottom.jpg); padding : 0em; padding-bottom : 10px }
 div.head { text-align : center; background : url(/img/head_fond.jpg); padding : 1ex; margin : 0px; }
 div.head img { max-width : 100%; }
+div.body { font-size : 120%; padding-left : 8em; padding-right : 8em; padding-top : 1ex; text-align: justify;}
 
-div.outer { padding : 0px; }
-div.body { font-size : 120%; padding-left : 8em; padding-right : 8em; padding-top : 1ex; }
+h1 { text-align : center; margin-top : .5ex; }
 
-div.body h1.titre { text-align : center; margin-top : .5ex; }
+a { text-decoration : none; border : 0px; }
+a img { border : 0px; }
+
+/* TODO: clean up below */
+
 div.body h2.surtitre { margin-bottom : .5ex; font-size : 120%; text-align : center; }
-div.body h2.soustitre { margin-top : 0ex; font-style : italic; font-size : 120%; text-align : center; }
+div.body h2.soustitre { margin-top : -1ex; margin-bottom : 3ex; font-style : italic; font-size : 120%; text-align : center; }
 div.body h3.auteur { margin-top : 0ex; font-size : 110%; text-align : right; margin-right : 5em; }
 
 div.body p.chapo { margin-left : 3em; margin-right : 3em; margin-bottom : 3ex; font-weight : bold; }
+
+p.vignette { text-align : center; }
 
 div.body p.ps { font-style : italic; }
 div.body p.ps span.ps { font-weight : bold; }
@@ -57,4 +58,5 @@ div.rubrique_1 div.body table a:hover { color : red; }
 
 blockquote { border : 1px solid blue; padding : 1ex; }
 
+img[alt$="<"] { float: left; }
 /* vim: set ft=css: */

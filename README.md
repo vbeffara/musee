@@ -9,12 +9,15 @@
 
 ### Technique
 
-- [ ] Pages par auteur
 - [ ] Page d'accueil
 - [ ] CSS commun
 - [ ] Fil d'Ariane ? (Accueil / Plan du site / Un peu d'histoire)
 - [ ] Template
+  - [x] Basic support
+  - [ ] Images left and right
 - [ ] Adresse de contact
+- [ ] Clean up CSS
+- [ ] Sort out image location
 
 ### Contenu
 
