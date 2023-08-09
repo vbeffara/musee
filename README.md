@@ -26,4 +26,5 @@
 - [ ] Rubriques
   - [ ] Le musée
   - [ ] Un peu d'histoire
+    - [x] La IIIe république
     - [x] Une institutrice raconte ses débuts
