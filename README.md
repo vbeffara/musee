@@ -12,8 +12,15 @@
 - [ ] Pages par auteur
 - [ ] Page d'accueil
 - [ ] CSS commun
+- [ ] Fil d'Ariane ? (Accueil / Plan du site / Un peu d'histoire)
+- [ ] Template
+- [ ] Adresse de contact
 
 ### Contenu
 
 - [ ] `favicon.ico`
-- [x] Page d'accueil
+- [ ] Page d'accueil
+- [ ] Rubriques
+  - [ ] Le musée
+  - [ ] Un peu d'histoire
+    - [ ] Une institutrice raconte ses débuts

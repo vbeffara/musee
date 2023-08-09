@@ -12,9 +12,6 @@ div.head img { max-width : 100%; }
 div.outer { padding : 0px; }
 div.body { font-size : 120%; padding-left : 8em; padding-right : 8em; padding-top : 1ex; }
 
-div.fil { margin-left : 2em; }
-div.fil span.fil_item { border : 2px solid #996633; border-top : 0px; padding : .3ex .5em 0px .5em; margin-left : .5em; background : white; }
-
 div.body h1.titre { text-align : center; margin-top : .5ex; }
 div.body h2.surtitre { margin-bottom : .5ex; font-size : 120%; text-align : center; }
 div.body h2.soustitre { margin-top : 0ex; font-style : italic; font-size : 120%; text-align : center; }
