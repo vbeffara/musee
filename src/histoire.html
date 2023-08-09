@@ -1,0 +1,14 @@
+---
+layout: base.njk
+title: "Un peu d'histoire"
+tags: categorie
+---
+
+{% for f in collections.histoire %}
+<div class="resume">
+  <a class="vignette" href="{{ f.url }}"><img src="{{ f.url }}{{ f.data.vignette }}"/></a>
+  <p class="titre"><a href="{{ f.url }}">{{ f.data.title }}</a></p>
+  <p class="soustitre">{{ f.data.subtitle }}</p>
+</div>
+<div class="nettoyeur"></div>
+{% endfor %}
