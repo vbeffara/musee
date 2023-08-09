@@ -1,0 +1,63 @@
+/*div.fil { border : 1px solid blue; }*/
+
+body { background : url(/img/body_fond.jpg); padding : 0px; margin : 0px; }
+
+a { text-decoration : none; border : 0px; }
+a img { border : 0px; }
+
+div.head-out { background : url(/img/head_bottom.jpg); padding : 0em; padding-bottom : 10px }
+div.head { text-align : center; background : url(/img/head_fond.jpg); padding : 1ex; margin : 0px; }
+div.head img { max-width : 100%; }
+
+div.outer { padding : 0px; }
+div.body { font-size : 120%; padding-left : 8em; padding-right : 8em; padding-top : 1ex; }
+
+div.fil { margin-left : 2em; }
+div.fil span.fil_item { border : 2px solid #996633; border-top : 0px; padding : .3ex .5em 0px .5em; margin-left : .5em; background : white; }
+
+div.body h1.titre { text-align : center; margin-top : .5ex; }
+div.body h2.surtitre { margin-bottom : .5ex; font-size : 120%; text-align : center; }
+div.body h2.soustitre { margin-top : 0ex; font-style : italic; font-size : 120%; text-align : center; }
+div.body h3.auteur { margin-top : 0ex; font-size : 110%; text-align : right; margin-right : 5em; }
+
+div.body p.chapo { margin-left : 3em; margin-right : 3em; margin-bottom : 3ex; font-weight : bold; }
+
+div.body p.ps { font-style : italic; }
+div.body p.ps span.ps { font-weight : bold; }
+
+div.body .spip_documents { margin-bottom : 1ex; margin-top : .5ex; }
+div.body .spip_documents_left { margin-right : 2em; float : left; clear : left; }
+div.body .spip_documents_right { margin-left : 2em; float : right; clear : right; }
+div.body .spip_documents_center { display : block; text-align : center; max-width : 100%; }
+div.body .spip_documents img { margin : 0px; }
+
+div.body .spip_documents dl { max-width : 100%; }
+div.body .spip_documents .spip_doc_vignette { text-align : center; }
+div.body .spip_documents .spip_doc_titre { margin-top : 1ex; text-align : center; font-weight : bold; }
+div.body .spip_documents .spip_doc_descriptif { margin-top : 1ex; font-size : 90%; font-style : italic; }
+
+div.body table { margin-bottom : 2ex; width : 100%; }
+
+div.resume { margin : 2em; font-size : 120%; clear : both; }
+div.resume p.titre { margin : 0ex; }
+div.resume span.titre { font-size : 120%; font-weight : bold; }
+div.resume p.soustitre { margin-top : .5ex; font-style : italic; }
+div.resume p.intro { margin-top : 1ex; margin-bottom : 0ex; }
+
+div.nettoyeur { border : none; clear : both; }
+
+div.foot { text-align : right; margin-bottom : 1ex; }
+div.foot span.foot_item { border : 2px solid #996633; padding : .3ex .5em .3ex .5em; margin-right : .5em;  background : white; }
+
+div.rubrique_1 div.fil { display : none; }
+div.rubrique_1 div.body { padding : 1ex 2em 0px; text-align : center; font-size : 130%; }
+div.rubrique_1 div.body h1 { display: none; }
+div.rubrique_1 div.body h2.soustitre { font-size : 150%; margin-top : 0ex; }
+div.rubrique_1 div.body h3 { font-size : 130%; margin-top : 0ex; }
+div.rubrique_1 div.body h3.auteur { display : none; }
+div.rubrique_1 div.body table a { border : 2px solid #996633; background : #DDAA77; color : black; padding : .3ex; }
+div.rubrique_1 div.body table a:hover { color : red; }
+
+blockquote { border : 1px solid blue; padding : 1ex; }
+
+/* vim: set ft=css: */
