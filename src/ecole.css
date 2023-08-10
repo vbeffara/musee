@@ -14,6 +14,8 @@ div.resume { margin : 2em; font-size : 120%; clear : both; }
 div.resume a.vignette { float : left; margin-right : 1em;  }
 div.resume p.titre { margin : 0ex; font-size : 120%; font-weight : bold; }
 
+img { max-width: 100%; }
+
 h1 { text-align : center; margin-top : .5ex; }
 
 a { text-decoration : none; border : 0px; }
