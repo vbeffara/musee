@@ -19,6 +19,7 @@ div.resume a.vignette img { max-width : 120px; }
 img { max-width: 100%; }
 div.body img { box-shadow: 0px 0px 20px black; }
 div.body p.vignette img { box-shadow: none; }
+div.body div.resume img { box-shadow: none; }
 div.body p img:only-child { display: block; margin: 1ex auto; max-width: 80%; }
 img[alt$="<"] { float: left; margin: 1em; max-width: 40%; }
 img[alt$=">"] { float: right; margin: 1em; max-width: 40%; }

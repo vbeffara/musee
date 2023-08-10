@@ -24,30 +24,31 @@
 - [ ] `favicon.ico`
 - [x] Page d'accueil
 - [ ] Plan du site
+- [ ] L'équipe : un paragraphe par membre ?
 - [x] Rubriques
   - [x] SPECIAL
     - [ ] Renseignements pratiques
   - [x] Le musée `musee`
-    - [ ] L'équipe
+    - [x] L'équipe
     - [ ] Les murs du musée
     - [ ] Présentation du musée
   - [x] Un peu d'histoire `histoire`
     - [x] La IIIe république
     - [x] Une institutrice raconte ses débuts
-    - [ ] Des apprentissages d'un autre temps
+    - [x] Des apprentissages d'un autre temps
     - [ ] Un moment important dans la vie de l'écolier
     - [ ] L'histoire de l'école
     - [ ] Mes poêles
   - [x] Les activités `activites`
-    - [ ] Autour d'une visite
+    - [x] Autour d'une visite
     - [ ] La leçon d'écriture
     - [ ] La leçon de morale
     - [ ] Une classe au musée
   - [x] Les objets scolaires `objets`
-    - [ ] Avant la photocopieuse
+    - [x] À l'encre violette
+    - [x] Avant la photocopieuse
     - [ ] Le mobilier scolaire
     - [ ] Les jeux de cour
     - [ ] Les punitions
     - [ ] Les récompenses
     - [ ] Pour écrire
-    - [ ] À l'encre violette
