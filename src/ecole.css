@@ -11,11 +11,15 @@ div.body h3.auteur { clear: both; margin-top : 0ex; font-size : 110%; text-align
 div.body p.chapo { margin-left : 3em; margin-right : 3em; margin-bottom : 3ex; font-weight : bold; }
 
 div.resume { margin : 2em; font-size : 120%; clear : both; }
+div.resume p { margin: .5ex; }
+div.resume p.titre { font-size : 120%; font-weight : bold; }
 div.resume a.vignette { float : left; margin-right : 1em; }
 div.resume a.vignette img { max-width : 120px; }
-div.resume p.titre { margin : 0ex; font-size : 120%; font-weight : bold; }
 
 img { max-width: 100%; }
+div.body img { box-shadow: 0px 0px 20px black; }
+div.body p.vignette img { box-shadow: none; }
+div.body p img:only-child { display: block; margin: 1ex auto; max-width: 80%; }
 img[alt$="<"] { float: left; margin: 1em; max-width: 40%; }
 img[alt$=">"] { float: right; margin: 1em; max-width: 40%; }
 
