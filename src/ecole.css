@@ -7,14 +7,17 @@ div.head img { max-width : 100%; }
 div.body { font-size : 120%; padding-left : 8em; padding-right : 8em; padding-top : 1ex; text-align: justify;}
 div.body h2.surtitre { margin-bottom : .5ex; font-size : 120%; text-align : center; }
 div.body h2.soustitre { margin-top : -1ex; margin-bottom : 3ex; font-style : italic; font-size : 120%; text-align : center; }
-div.body h3.auteur { margin-top : 0ex; font-size : 110%; text-align : right; margin-right : 5em; }
+div.body h3.auteur { clear: both; margin-top : 0ex; font-size : 110%; text-align : right; margin-right : 5em; }
 div.body p.chapo { margin-left : 3em; margin-right : 3em; margin-bottom : 3ex; font-weight : bold; }
 
 div.resume { margin : 2em; font-size : 120%; clear : both; }
-div.resume a.vignette { float : left; margin-right : 1em;  }
+div.resume a.vignette { float : left; margin-right : 1em; }
+div.resume a.vignette img { max-width : 120px; }
 div.resume p.titre { margin : 0ex; font-size : 120%; font-weight : bold; }
 
 img { max-width: 100%; }
+img[alt$="<"] { float: left; margin: 1em; max-width: 40%; }
+img[alt$=">"] { float: right; margin: 1em; max-width: 40%; }
 
 h1 { text-align : center; margin-top : .5ex; }
 
@@ -52,5 +55,4 @@ div.rubrique_1 table a:hover { color : red; }
 
 blockquote { border : 1px solid blue; padding : 1ex; }
 
-img[alt$="<"] { float: left; }
 /* vim: set ft=css: */
