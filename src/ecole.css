@@ -14,27 +14,23 @@ div.resume { margin : 2em; font-size : 120%; clear : both; }
 div.resume p { margin: .5ex; }
 div.resume p.titre { font-size : 120%; font-weight : bold; }
 div.resume a.vignette { float : left; margin-right : 1em; }
-div.resume a.vignette img { max-width : 120px; }
+div.resume a.vignette img { width : 120px; height: auto; }
 
 img { max-width: 100%; }
-div.body img { box-shadow: 0px 0px 20px black; }
-div.body p.vignette img { box-shadow: none; }
-div.body div.resume img { box-shadow: none; }
 div.body p img:only-child { display: block; margin: 1ex auto; max-width: 80%; }
-img[alt$="<"] { float: left; margin: 1em; max-width: 40%; }
-img[alt$=">"] { float: right; margin: 1em; max-width: 40%; }
+div.body p img[alt$="<"] { float: left; clear: left; margin-right: 2em; max-width: 40%; }
+div.body p img[alt$=">"] { float: right; clear: right; margin-left: 2em; max-width: 40%; }
 
 h1 { text-align : center; margin-top : .5ex; }
 
 a { text-decoration : none; border : 0px; }
-a img { border : 0px; margin : 0px; }
+/* a img { border : 0px; margin : 0px; } */
 
 /* TODO: clean up below */
 
 p.vignette { text-align : center; }
 
 div.body .spip_documents { margin-bottom : 1ex; margin-top : .5ex; }
-div.body .spip_documents img { margin : 0px; }
 
 div.body .spip_documents dl { max-width : 100%; }
 div.body .spip_documents .spip_doc_vignette { text-align : center; }

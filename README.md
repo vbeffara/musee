@@ -47,7 +47,7 @@
   - [x] Les objets scolaires `objets`
     - [x] À l'encre violette
     - [x] Avant la photocopieuse
-    - [ ] Le mobilier scolaire
+    - [x] Le mobilier scolaire
     - [ ] Les jeux de cour
     - [ ] Les punitions
     - [ ] Les récompenses
