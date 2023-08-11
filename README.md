@@ -37,11 +37,11 @@
     - [x] Une institutrice raconte ses débuts
     - [x] Des apprentissages d'un autre temps
     - [ ] Un moment important dans la vie de l'écolier
-    - [ ] L'histoire de l'école
+    - [x] L'histoire de l'école
     - [ ] Mes poêles
   - [x] Les activités `activites`
     - [x] Autour d'une visite
-    - [ ] La leçon d'écriture
+    - [x] La leçon d'écriture
     - [ ] La leçon de morale
     - [ ] Une classe au musée
   - [x] Les objets scolaires `objets`
