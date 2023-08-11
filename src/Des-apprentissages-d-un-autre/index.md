@@ -36,8 +36,8 @@ présence d'une carabine d'exercice destinée aux élèves. De nombreux
 Vers les années 1880, les responsables de l'Instruction Publique avaient compris
 l'importance de l'apprentissage de la natation dès le plus jeune âge. La tâche
 n'était pas aisée car il fallait, d'une part, disposer du personnel qualifié
-pour cet enseignement ( très nombreux étaient les maîtres qui ne savaient pas
-nager ou qui n'étaient pas préparés pour conduire cet enseignement ) et d'autre
+pour cet enseignement (très nombreux étaient les maîtres qui ne savaient pas
+nager ou qui n'étaient pas préparés pour conduire cet enseignement) et d'autre
 part, il fallait pouvoir disposer d'une piscine ou d'un bassin de natation, ce
 qui était rarement le cas dans les petites ou les moyennes communes.
 

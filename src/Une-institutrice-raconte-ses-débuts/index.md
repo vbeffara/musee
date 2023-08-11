@@ -32,7 +32,7 @@ C’était la solution la plus courante.
 
 D’autres fois, le curé, qui était toujours un personnage important dans le
 village, a pu me rendre service . Il est même arrivé que l’un d’eux vienne me
-voir en classe ( &laquo;&nbsp;Je viens vous inspecter&nbsp;&raquo;,
+voir en classe (&laquo;&nbsp;Je viens vous inspecter&nbsp;&raquo;,
 disait-il&nbsp;!) Les logements étaient de simples chambres sans chauffage, dans
 le village ou dans une ferme des environs. Je me souviens que, quelquefois, je
 devais sortir et casser la glace pour prendre l’eau de ma toilette. J’en ai même
@@ -76,6 +76,6 @@ eux pouvaient aller au collège.
 
 Mon travail était difficile mais j’ai quand même apprécié cette période de ma
 vie. Les relations avec les parents d’élèves étaient agréables le plus souvent
-et l’instituteur ou l’institutrice était très respecté. ( Il faisait souvent
-office de secrétaire de Mairie ). J’étais la
+et l’instituteur ou l’institutrice était très respecté. (Il faisait souvent
+office de secrétaire de Mairie). J’étais la
 &laquo;&nbsp;Demoiselle&nbsp;&raquo; et ma place et mon rôle étaient importants.

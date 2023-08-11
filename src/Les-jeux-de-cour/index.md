@@ -17,7 +17,7 @@ attentive du maître de service !).
 ## 1. Les jeux d'élimination
 
 Souvent, avant de jouer, il fallait procéder au choix du premier joueur ou des
-équipes. Pour cela , les enfants récitaient souvent une comptine dite
+équipes. Pour cela, les enfants récitaient souvent une comptine dite
 « d'élimination » :
 
 -   Amstramgram, pique et pique et colégram, bourre et bourre et
@@ -91,9 +91,9 @@ Les plus traditionnels étaient :
 
 -   « Un, deux, trois, soleil », plutôt joué entre filles. Une fille face à un
     mur, comptait : « un, deux, trois, soleil » puis se retournait. Pendant
-    qu'elle comptait, ses camarades , placées assez loin d'elle, se
-    rapprochaient en prenant soin de ne plus bouger après le mot « soleil ». Le
-    but était d'arriver au mur sans avoir été vue en mouvement.
+    qu'elle comptait, ses camarades, placées assez loin d'elle, se rapprochaient
+    en prenant soin de ne plus bouger après le mot « soleil ». Le but était
+    d'arriver au mur sans avoir été vue en mouvement.
 
 -   « Quatre coins » : Un jeu également présent dans beaucoup d'autres pays.
     Cinq joueurs, dont quatre adossés à quatre arbres et un au milieu. Les
