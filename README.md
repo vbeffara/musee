@@ -42,7 +42,7 @@
   - [x] Les activités `activites`
     - [x] Autour d'une visite
     - [x] La leçon d'écriture
-    - [ ] La leçon de morale
+    - [x] La leçon de morale
     - [ ] Une classe au musée
   - [x] Les objets scolaires `objets`
     - [x] À l'encre violette
