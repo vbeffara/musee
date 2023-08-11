@@ -48,7 +48,7 @@
     - [x] À l'encre violette
     - [x] Avant la photocopieuse
     - [x] Le mobilier scolaire
-    - [ ] Les jeux de cour
+    - [x] Les jeux de cour
     - [ ] Les punitions
     - [ ] Les récompenses
     - [ ] Pour écrire
