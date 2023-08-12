@@ -36,7 +36,7 @@
     - [x] Des apprentissages d'un autre temps
     - [ ] Un moment important dans la vie de l'écolier
     - [x] L'histoire de l'école
-    - [ ] Mes poêles
+    - [x] Mes poêles
   - [ ] Les activités `activites`
     - [x] Autour d'une visite
     - [x] La leçon d'écriture
