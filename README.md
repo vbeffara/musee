@@ -42,11 +42,11 @@
     - [x] La leçon d'écriture
     - [x] La leçon de morale
     - [ ] Une classe au musée
-  - [ ] Les objets scolaires `objets`
+  - [x] Les objets scolaires `objets`
     - [x] À l'encre violette
     - [x] Avant la photocopieuse
     - [x] Le mobilier scolaire
     - [x] Les jeux de cour
     - [x] Les punitions
     - [x] Les récompenses
-    - [ ] Pour écrire
+    - [x] Pour écrire
