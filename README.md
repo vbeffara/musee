@@ -21,7 +21,7 @@
 
 - [x] Page d'accueil
 - [x] Plan du site
-- [ ] Renseignements pratiques
+- [x] Renseignements pratiques
 - [x] Rubriques
   - [x] Le musée `musee`
     - [x] L'équipe
