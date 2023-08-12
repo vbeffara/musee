@@ -11,10 +11,10 @@
 
 - [x] Page d'accueil
 - [ ] Fil d'Ariane ? (Accueil / Plan du site / Un peu d'histoire)
-- [ ] Template
+- [x] Template
   - [x] Basic support
   - [x] Images left and right
-- [ ] Adresse de contact
+- [ ] Adresse de contact en pas de chaque page
 - [ ] Clean up CSS
 
 ### Contenu

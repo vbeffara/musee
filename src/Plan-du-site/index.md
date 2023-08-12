@@ -13,7 +13,7 @@ subtitle: L'école d'autrefois présentée dans un établissement parisien
 
 [Renseignements pratiques](/Renseignements-pratiques)
 
-[Présentation du musée](/musee)
+[Le musée](/musee)
 
 [Les activités](/activites)
 
@@ -24,7 +24,7 @@ subtitle: L'école d'autrefois présentée dans un établissement parisien
 <p> </p>
 <p> </p>
 
-[L'équipe](/musee/L-equipe)
+[L'équipe](/L-equipe)
 
 [Les objets scolaires](/objets)
 

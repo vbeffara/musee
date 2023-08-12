@@ -2,8 +2,8 @@
 layout: base
 tags: musee
 vignette: vignette.png
-title: Présentation du Musée
-subtitle: Un petit historique du Musée
+title: Présentation du musée
+subtitle: Un petit historique du musée
 author: Michel Jaulin
 ---
 
