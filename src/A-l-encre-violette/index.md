@@ -3,8 +3,8 @@ layout: base
 tags: objets
 vignette: vignette.png
 title: "À l'encre violette"
-subtitle: "La couleur de l'écriture ... et des doigts !"
-chapeau: "Depuis la fin des années 1960, les stylos à bille et les crayons feutre ont remplacé les porte plumes. L'écriture à l'encre exigeait soin, application et obéissait à un certain rituel ..."
+subtitle: "La couleur de l'écriture... et des doigts !"
+chapeau: "Depuis la fin des années 1960, les stylos à bille et les crayons feutre ont remplacé les porte plumes. L'écriture à l'encre exigeait soin, application et obéissait à un certain rituel..."
 ---
 
 Combien de nous se souviennent-ils encore, dans leur enfance, avoir taché leurs
@@ -35,7 +35,7 @@ bouteille, telle la publicité d'orangina.
 
 Il revenait en classe tout fiérot avec son litre d'encre et, après avoir fixé
 sur le flacon d'encre un en-bout ad-hoc, l’élève de service remplissait
-raisonnablement les petits récipients de porcelaine ...
+raisonnablement les petits récipients de porcelaine...
 
 ![](IMG_0083_5.jpg)
 

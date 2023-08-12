@@ -37,11 +37,11 @@
     - [x] Un moment important dans la vie de l'écolier
     - [x] L'histoire de l'école
     - [x] Mes poêles
-  - [ ] Les activités `activites`
+  - [x] Les activités `activites`
     - [x] Autour d'une visite
     - [x] La leçon d'écriture
     - [x] La leçon de morale
-    - [ ] Une classe au musée
+    - [x] Une classe au musée
   - [x] Les objets scolaires `objets`
     - [x] À l'encre violette
     - [x] Avant la photocopieuse
