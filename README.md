@@ -48,5 +48,5 @@
     - [x] Le mobilier scolaire
     - [x] Les jeux de cour
     - [x] Les punitions
-    - [ ] Les récompenses
+    - [x] Les récompenses
     - [ ] Pour écrire
