@@ -26,10 +26,10 @@
 - [x] Rubriques
   - [ ] SPECIAL
     - [ ] Renseignements pratiques
-  - [ ] Le musée `musee`
+  - [x] Le musée `musee`
     - [x] L'équipe
     - [x] Les murs du musée
-    - [ ] Présentation du musée
+    - [x] Présentation du musée
   - [ ] Un peu d'histoire `histoire`
     - [x] La IIIe république
     - [x] Une institutrice raconte ses débuts
