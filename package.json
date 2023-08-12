@@ -9,6 +9,7 @@
   },
   "scripts": {
     "build": "npx eleventy",
-    "start": "npx eleventy --serve"
+    "start": "npx eleventy --serve",
+    "deploy": "lftp -e \"mirror -Rev -P 5 _site/ iletaitunefoislecole.fr/ ; exit\" vbeffara@ftp.lautre.net"
   }
 }

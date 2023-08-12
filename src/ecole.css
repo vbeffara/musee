@@ -1,7 +1,7 @@
-body { background : url(/img/body_fond.jpg); padding : 0px; margin : 0px; }
+body { background : url("/img/body_fond.jpg"); padding : 0px; margin : 0px; }
 
-div.head-out { background : url(/img/head_bottom.jpg); padding : 0em; padding-bottom : 10px }
-div.head { text-align : center; background : url(/img/head_fond.jpg); padding : 1ex; margin : 0px; }
+div.head-out { background : url("/img/head_bottom.jpg"); padding : 0em; padding-bottom : 10px }
+div.head { text-align : center; background : url("/img/head_fond.jpg"); padding : 1ex; margin : 0px; }
 div.head img { max-width : 100%; }
 
 div.body { font-size : 120%; padding-left : 8em; padding-right : 8em; padding-top : 1ex; text-align: justify;}
