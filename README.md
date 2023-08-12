@@ -19,13 +19,10 @@
 
 ### Contenu
 
-- [ ] `favicon.ico`
 - [x] Page d'accueil
-- [ ] Plan du site
-- [ ] L'équipe : un paragraphe par membre ?
+- [x] Plan du site
+- [ ] Renseignements pratiques
 - [x] Rubriques
-  - [ ] SPECIAL
-    - [ ] Renseignements pratiques
   - [x] Le musée `musee`
     - [x] L'équipe
     - [x] Les murs du musée
