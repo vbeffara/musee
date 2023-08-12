@@ -30,11 +30,11 @@
     - [x] L'équipe
     - [x] Les murs du musée
     - [x] Présentation du musée
-  - [ ] Un peu d'histoire `histoire`
+  - [x] Un peu d'histoire `histoire`
     - [x] La IIIe république
     - [x] Une institutrice raconte ses débuts
     - [x] Des apprentissages d'un autre temps
-    - [ ] Un moment important dans la vie de l'écolier
+    - [x] Un moment important dans la vie de l'écolier
     - [x] L'histoire de l'école
     - [x] Mes poêles
   - [ ] Les activités `activites`
