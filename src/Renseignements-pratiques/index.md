@@ -6,7 +6,7 @@ subtitle: Tout ce que vous voulez savoir pour venir au musée
 
 Le musée est ouvert aux classes pour des visites pédagogiques, le lundi, le
 mardi, le mercredi matin, le jeudi et le vendredi, de 9h à 11h et de 14h à 16h.
-Prix de la visite : 20€ par classe, 15€ pour les classes de ZEP.
+Prix de la visite : 30€ par classe.
 
 ![>](classem.jpg)
 
