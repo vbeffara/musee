@@ -18,60 +18,69 @@ Musée aux enfants venus en sortie pédagogique et leur font revivre la vie d'un
 écolier de 1920 ou de 1950. Voici une présentation rapide des membres de notre
 équipe :
 
+<div class="trombi">
+
+### Madame Michelle Leprévost, présidente
+
+![](Michelle_Leprevost.jpg)
+
+### Monsieur Christian Leprévost, trésorier
+
+![](Christian_Leprevost.jpg)
+
+### Madame Jocelyne Beffara, secrétaire
+
+![](Jocelyne_Beffara.jpg)
+
+### Madame Hélène Amestoy
+
+![](Helene_Amestoy.jpg)
+
 ### Madame Marie-France Authier
 
 ![](Marie-France4.jpg)
 
-### Madame Jocelyne Beffara
-
-![](auton2.jpg)
-
-### Monsieur Bernard Brajon
-
-![](img_0081.jpg)
-
-### Monsieur Patrice Crampon
-
-![](Patrice4.jpg)
-
 ### Monsieur Michel Jaulin
 
-![](img_0091.jpg)
+![](Michel_Jaulin.jpg)
 
-### Madame Christiane Lasarte
+### Madame Danielle Josèphe
 
-![](Christiane4.jpg)
-
-### Madame Michelle Leprévost
-
-![](img_0085ter.jpg)
-
-### Monsieur Christian Leprévost
-
-![](Christian4.jpg)
+![](Danielle_Josephe.jpg)
 
 ### Monsieur Jean-Paul Malek
 
-![](Jean-Paul4.jpg)
+![](Jean-Paul_Malek.jpg)
 
-### Monsieur Marius Mouette
+### Monsieur Pierre Temim
 
-### Madame Nicole Presse
+![](Pierre_Temim.jpg)
 
-![](Nicole4.jpg)
+### Madame Véronique Théfo
 
-### Monsieur Jean Jacques Simony
+![](Veronique_Thefo.jpg)
 
-![](img_0080.jpg)
+### Monsieur Philippe Thuillier
 
-### Madame Sylvie Sonnier
+![](Philippe_Thuillier.jpg)
 
-![](Sylvie4.jpg)
+### Monsieur Franck Wambergue
+
+![](Franck_Wambergue.jpg)
 
 Et merci aux anciens animateurs :
 - Madame Danièle Albet
 - Monsieur Jean Louis Albet
+- Bernard Brajon
 - Madame Anne Marie Charviat
+- Patrice Crampon
 - Monsieur Daniel Deboudt
 - Monsieur Jean-Marie Demange
 - Madame Arlette Jaulin
+- Christiane Lasarte
+- Marius Mouette
+- Nicole Presse
+- Jean-Jacques Simony
+- Sylvie Sonnier
+
+</div>

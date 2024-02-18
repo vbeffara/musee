@@ -58,4 +58,6 @@ div.rubrique_1 table a:hover { color : red; }
 
 blockquote { border : 1px solid blue; padding : 1ex; }
 
+div.body div.trombi img { width : 25%; }
+
 /* vim: set ft=css: */
