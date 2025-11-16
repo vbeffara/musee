@@ -4,6 +4,7 @@
 
 - `npm run build` pour remplir `_site`
 - `npm run start` pour lancer un serveur sur `http://localhost:8080`
+- `npm run deploy` pour déployer le site en ligne
 
 ## À faire
 

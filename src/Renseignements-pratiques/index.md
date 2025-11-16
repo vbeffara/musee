@@ -6,7 +6,7 @@ subtitle: Tout ce que vous voulez savoir pour venir au musée
 
 Le musée est ouvert aux classes pour des visites pédagogiques, le lundi, le
 mardi, le mercredi matin, le jeudi et le vendredi, de 9h à 11h et de 14h à 16h.
-Prix de la visite : 30€ par classe.
+Prix de la visite : 40€ par classe.
 
 ![>](classem.jpg)
 
@@ -18,9 +18,8 @@ l'école mixte\
 75011 Paris\
 [Plan](https://www.google.com/maps/place/4+Rue+Keller,+75011+Paris,+France)
 
-- Pour visiter, contacter notre secrétaire, responsable des plannings :\
-Mme Jocelyne Beffara\
-email : [jocelyne@beffara.org](mailto:jocelyne@beffara.org)
+- Pour visiter, adresse de contact :\
+email : [contact@iletaitunefoislecole.fr](mailto:contact@iletaitunefoislecole.fr)
 
 - Pour toute autre raison, contacter notre présidente :\
 Mme Michelle Leprévost\

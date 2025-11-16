@@ -7,10 +7,10 @@ subtitle: Déroulement d'une séquence
 author: Michel Jaulin
 ---
 
-Le rendez-vous doit être obligatoirement pris auprès de Madame Beffara (voir ses
-coordonnées dans la rubrique « Renseignements pratiques »). La séquence est
-généralement de 2 heures (de 9h à 11h ou de 14h à 16 h). La visite est encadrée
-par deux intervenants de l'association.
+La séquence est généralement de 2 heures (de 9h à 11h ou de 14h à 16 h). La
+visite est encadrée par deux intervenants de l'association. La demande de visite
+doit être envoyée à l'adresse mail suivante :
+[contact@iletaitunefoislecole.fr](mailto:contact@iletaitunefoislecole.fr)
 
 Chaque visite est axée principalement sur des activités pédagogiques et
 la visite, d'une durée variable, des salles du musée.
