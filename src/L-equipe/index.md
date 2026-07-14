@@ -4,7 +4,7 @@ tags: musee
 vignette: vignette.png
 title: L'équipe
 subtitle: Présentation des intervenants qui accueillent les classes
-author: Jocelyne Beffara
+author:
 ---
 
 Une quinzaine de collègues, professeurs d'école retraités, se sont intéressés au
@@ -20,63 +20,68 @@ Musée aux enfants venus en sortie pédagogique et leur font revivre la vie d'un
 
 <div class="trombi">
 
-### Madame Michelle Leprévost, présidente
+### Michelle Leprévost, présidente
 
 ![](Michelle_Leprevost.jpg)
 
-### Monsieur Christian Leprévost, trésorier
+### Christian Leprévost, trésorier
 
 ![](Christian_Leprevost.jpg)
 
-### Madame Jocelyne Beffara, secrétaire
-
-![](Jocelyne_Beffara.jpg)
-
-### Madame Hélène Amestoy
-
-![](Helene_Amestoy.jpg)
-
-### Madame Marie-France Authier
-
-![](Marie-France4.jpg)
-
-### Monsieur Michel Jaulin
-
-![](Michel_Jaulin.jpg)
-
-### Madame Danielle Josèphe
-
-![](Danielle_Josephe.jpg)
-
-### Monsieur Jean-Paul Malek
-
-![](Jean-Paul_Malek.jpg)
-
-### Monsieur Pierre Temim
-
-![](Pierre_Temim.jpg)
-
-### Madame Véronique Théfo
+### Véronique Théfo, secrétaire
 
 ![](Veronique_Thefo.jpg)
 
-### Monsieur Philippe Thuillier
+### Michel Jaulin, fondateur
+
+![](Michel_Jaulin.jpg)
+
+## Les autres animateurs et animatrices (par ordre alphabétique) :
+
+### Hélène Amestoy
+
+![](Helene_Amestoy.jpg)
+
+### Jocelyne Beffara
+
+![](Jocelyne_Beffara.jpg)
+
+### Jean-Pierre Daneti
+
+![](Jean-Pierre_Daneti.jpg)
+
+### Martine Gary
+
+![](Martine_Gary.jpg)
+
+### Jean-Paul Malek
+
+![](Jean-Paul_Malek.jpg)
+
+### Pierre Tenim
+
+![](Pierre_Tenim.jpg)
+
+### Philippe Thuillier
 
 ![](Philippe_Thuillier.jpg)
 
-### Monsieur Franck Wambergue
+### Franck Wambergue
 
 ![](Franck_Wambergue.jpg)
 
-Et merci aux anciens animateurs :
-- Madame Danièle Albet
-- Monsieur Jean Louis Albet
+## Et merci aux anciens animateurs :
+
+- Danièle Albet
+- Jean Louis Albet
+- Marie-France Authier
 - Bernard Brajon
-- Madame Anne Marie Charviat
+- Anne Marie Charviat
 - Patrice Crampon
-- Monsieur Daniel Deboudt
-- Monsieur Jean-Marie Demange
-- Madame Arlette Jaulin
+- Daniel Deboudt
+- Jean-Marie Demange
+- Arlette Jaulin
+- Danielle Josèphe
 - Christiane Lasarte
 - Marius Mouette
 - Nicole Presse

@@ -4,9 +4,9 @@ title: Renseignements pratiques
 subtitle: Tout ce que vous voulez savoir pour venir au musée
 ---
 
-Le musée est ouvert aux classes pour des visites pédagogiques, le lundi, le
-mardi, le mercredi matin, le jeudi et le vendredi, de 9h à 11h et de 14h à 16h.
-Prix de la visite : 40€ par classe.
+Le musée est ouvert **exclusivement** aux classes pour des visites pédagogiques,
+le lundi, le mardi, le mercredi matin, le jeudi et le vendredi, de 9h à 11h et
+de 14h à 16h. Prix de la visite : 40€ par classe.
 
 ![>](classem.jpg)
 
