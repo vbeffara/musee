@@ -11,7 +11,7 @@ Une quinzaine de collègues, professeurs d'école retraités, se sont intéress�
 Musée. Ils ont installé les salles, collecté des objets anciens dans les écoles
 de Paris et organisé les différentes vitrines de présentation.
 
-![](groupe_complet.jpg)
+![](groupe_complet_2026.jpg)
 
 Régulièrement, par équipes de deux, ils interviennent pour faire visiter le
 Musée aux enfants venus en sortie pédagogique et leur font revivre la vie d'un
