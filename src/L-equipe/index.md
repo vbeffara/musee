@@ -52,7 +52,7 @@ Musée aux enfants venus en sortie pédagogique et leur font revivre la vie d'un
 
 ### Martine Gary
 
-![](Martine_Gary.jpg)
+![](Martine_Gary_2.jpg)
 
 ### Jean-Paul Malek
 

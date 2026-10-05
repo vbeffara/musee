@@ -8,7 +8,7 @@ vignette: "jeannette.jpg"
 tags: histoire
 ---
 
-Je m’appelle Jeanne et j’ai j'ai maintenant 86 ans. Je repense souvent à mes débuts
+Je m’appelle Jeanne et j’ai maintenant 86 ans. Je repense souvent à mes débuts
 de jeune institutrice, dans le Cantal, en 1941 et 1942.
 
 J’habitais alors à Ussel, en Corrèze. Quand j’étais appelée pour une suppléance,
